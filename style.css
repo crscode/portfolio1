@@ -292,4 +292,6 @@ body {
     color: Gold;
     font-size: 35px;
   }
-  
+  form {
+    color:red;
+  }
