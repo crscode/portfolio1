@@ -49,6 +49,7 @@ body {
     color: white;
     text-align: center;
     padding-top: 150px;
+    
   }
   
   .jumbotron-text h1 {
@@ -286,3 +287,9 @@ body {
   img {
     text-align: center;
   }
+  /* Download CV */
+  .btn{
+    color: Gold;
+    font-size: 35px;
+  }
+  
